@@ -52,11 +52,11 @@ background-color: white;
 
 
 
- 	background: url("search2.png") no-repeat left 13px center,
-                  url('micimage.png') no-repeat right 40px center,
-                  url('lens.png') no-repeat right 10px center;
+ 	background: url("assets/search2.png") no-repeat left 13px center,
+                  url('assets/micimage.png') no-repeat right 40px center,
+                  url('assets/lens.png') no-repeat right 10px center;
 
-      background-size: 20px 20px;
+      background-size: 30px 30px;
 }
 
 
